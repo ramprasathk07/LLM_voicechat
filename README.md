@@ -28,7 +28,7 @@ This project integrates a Large Language Model (LLM)-based chatbot with real-tim
 ## Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/llm-voice-chatbot.git
+git clone https://github.com/ramprasathk07/LLM_voicechat.git
 cd llm-voice-chatbot
 ```
 
