@@ -1,0 +1,10 @@
+torch
+transformers
+numpy
+webrtcvad
+pyaudio
+soundfile
+sounddevice
+gtts
+python-dotenv
+ollama
